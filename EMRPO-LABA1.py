@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import math
 from scipy.optimize import fsolve
-from scipy.special import factorial # Импорт остается для таблицы 24242424
+from scipy.special import factorial # Импорт остается для таблицы 24242424333
 from io import StringIO
 
 # --- Конфигурация страницы ---
